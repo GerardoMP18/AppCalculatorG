@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppCalculator</string>
+    <string name="cal.hint.input">Introduce la operación</string>
 </resources>
